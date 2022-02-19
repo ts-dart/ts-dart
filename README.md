@@ -1,14 +1,10 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
+<section display="flex">
 <div align="center">
-Sempre gostei muito de tecnologia, <br>
-tenho desde de criança a convicção <br>
-de que a tecnogia seria minha area <br>
-de atuação profissional, <br>
-aos 14 anos tive o primeiro contato com uma <br>
-liguagem de programação e ali me apaixonei. <br>
-Hoje estudo na trybe e <br>
-busco a minha primeira oportunidade. <br>
+Apaixonado por tecnologia :hearts:	<br>
+Estudante de desenvolvimento na trybe :man_technologist:	<br>
+Em busca da primeira oportunidade :pleading_face:	<br>
 </div>
 
 <br>
@@ -20,6 +16,7 @@ busco a minha primeira oportunidade. <br>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
+</section>
 
 <br>
 
