@@ -1,6 +1,6 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
-<div align="center">
+<div align="left">
 Apaixonado por tecnologia :hearts:	<br>
 Estudante de desenvolvimento na trybe :man_technologist:	<br>
 Em busca da primeira oportunidade :pleading_face:	<br>
@@ -8,8 +8,8 @@ Em busca da primeira oportunidade :pleading_face:	<br>
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180px" width="300px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="400px" width="600px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="400px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=dracula"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
