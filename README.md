@@ -42,3 +42,5 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ts-dart)
 
+
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
