@@ -1,10 +1,10 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
 <div align="center">
-:black_circle: Apaixonado por tecnologia :hearts:	<br>
-:black_circle: Amo astronomia :nerd_face:	<br>
-:black_circle: Estudante de desenvolvimento na trybe :man_technologist:	<br>
-:black_circle: Em busca da primeira oportunidade :briefcase:		<br>
+<h1><</h1> Apaixonado por tecnologia :hearts:	<h1>/></h1><br>
+<h1><</h1> Amo astronomia :nerd_face:	<h1>/></h1><br>
+<h1><</h1> Estudante de desenvolvimento na trybe :man_technologist:	<h1>/></h1><br>
+<h1><</h1> Em busca da primeira oportunidade :briefcase:		<h1>/></h1><br>
 </div>
 
 <br/>
