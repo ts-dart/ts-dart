@@ -1,10 +1,15 @@
-<h1 align="center">Olá visitante, I am Thiago 👋</h1>
-Bem vindo ao meu perfil !!
+<h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
-Sempre gostei muito de tecnologia, tenho desde de criança a convicção <br>
-de que a tecnogia seria minha area de atuação profissional, <br>
-aos 14 anos tive o primeiro contato com uma liguagem de programação e ali me apaixonei. <br>
-Hoje estudo na trybe e busco a minha primeira oportunidade. <br>
+<div align="center">
+Sempre gostei muito de tecnologia, <br>
+tenho desde de criança a convicção <br>
+de que a tecnogia seria minha area <br>
+de atuação profissional, <br>
+aos 14 anos tive o primeiro contato com uma <br>
+liguagem de programação e ali me apaixonei. <br>
+Hoje estudo na trybe e <br>
+busco a minha primeira oportunidade. <br>
+</div>
 
 <br>
 
