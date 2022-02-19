@@ -1,6 +1,12 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
-<section display="flex">
+<style>
+  .statics {
+    display: flex;
+  }
+</style>
+
+<section class="statics">
 <div align="center">
 Apaixonado por tecnologia :hearts:	<br>
 Estudante de desenvolvimento na trybe :man_technologist:	<br>
