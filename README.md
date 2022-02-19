@@ -1,4 +1,4 @@
-<div align="center># Olá visitante, I am Thiago 👋<div>
+<div align="center"># Olá visitante, I am Thiago 👋</div>
 Bem vindo ao meu perfil !!
 
 Sempre gostei muito de tecnologia, tenho desde de criança a convicção <br>
