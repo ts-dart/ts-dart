@@ -8,8 +8,8 @@ aos 14 anos tive o primeiro contato com uma liguagem de programação e ali me a
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=onedark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
