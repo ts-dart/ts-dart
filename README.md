@@ -2,12 +2,13 @@
 
 <div align="center">
 <strong><</strong> Apaixonado por tecnologia :hearts:	<strong>/></strong><br>
-<strong><</strong> Amo astronomia :nerd_face:	<strong>/></strong><br>
-<strong><</strong> Estudante de desenvolvimento na trybe :man_technologist:	<strong>/></strong><br>
+<strong><</strong> Amo astronomia games e animes :nerd_face:	<strong>/></strong><br>
+<strong><</strong> Estudante na trybe :man_technologist:	<strong>/></strong><br>
 <strong><</strong> Em busca da primeira oportunidade :briefcase:		<strong>/></strong><br>
 </div>
 
 <br/>
+<th>
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
