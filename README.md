@@ -1,10 +1,10 @@
-                                                          # Olá visitante, I am Thiago 👋
+<div align="center># Olá visitante, I am Thiago 👋<div>
 Bem vindo ao meu perfil !!
 
-Sempre gostei muito de tecnologia, tenho desde de criança a convicção 
-de que a tecnogia seria minha area de atuação profissional, 
-aos 14 anos tive o primeiro contato com uma liguagem de programação e ali me apaixonei. 
-Hoje estudo na trybe e busco a minha primeira oportunidade.   
+Sempre gostei muito de tecnologia, tenho desde de criança a convicção <br>
+de que a tecnogia seria minha area de atuação profissional, <br>
+aos 14 anos tive o primeiro contato com uma liguagem de programação e ali me apaixonei. <br>
+Hoje estudo na trybe e busco a minha primeira oportunidade. <br>
 
 <br>
 
