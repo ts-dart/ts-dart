@@ -1,10 +1,10 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
 <div align="center">
-<h1><</h1> Apaixonado por tecnologia :hearts:	<h1>/></h1><br>
-<h1><</h1> Amo astronomia :nerd_face:	<h1>/></h1><br>
-<h1><</h1> Estudante de desenvolvimento na trybe :man_technologist:	<h1>/></h1><br>
-<h1><</h1> Em busca da primeira oportunidade :briefcase:		<h1>/></h1><br>
+<strong><</strong> Apaixonado por tecnologia :hearts:	<strong>/></strong><br>
+<strong><</strong> Amo astronomia :nerd_face:	<strong>/></strong><br>
+<strong><</strong> Estudante de desenvolvimento na trybe :man_technologist:	<strong>/></strong><br>
+<strong><</strong> Em busca da primeira oportunidade :briefcase:		<strong>/></strong><br>
 </div>
 
 <br/>
