@@ -1,19 +1,10 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
-<style>
-  .statics {
-    display: flex;
-  }
-</style>
-
-<section class="statics">
 <div align="center">
 Apaixonado por tecnologia :hearts:	<br>
 Estudante de desenvolvimento na trybe :man_technologist:	<br>
 Em busca da primeira oportunidade :pleading_face:	<br>
 </div>
-
-<br>
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -22,7 +13,6 @@ Em busca da primeira oportunidade :pleading_face:	<br>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
-</section>
 
 <br>
 
