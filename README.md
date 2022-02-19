@@ -1,10 +1,8 @@
 <h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
 
-<div align="center">
 Apaixonado por tecnologia :hearts:	<br>
 Estudante de desenvolvimento na trybe :man_technologist:	<br>
 Em busca da primeira oportunidade :pleading_face:	<br>
-</div>
 
 <!-- GITHUB STATUS -->
 <div align="center">
