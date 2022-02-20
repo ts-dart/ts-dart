@@ -1,4 +1,4 @@
-<h1 align="center">Olá visitante, Welcome I'm Thiago 👋</h1>
+<h1 align="center">Olá, Welcome I'm Thiago 👋</h1>
 
 <div align="center">
 <strong><</strong> Apaixonado por tecnologia :hearts:	<strong>/></strong><br>
