@@ -1,4 +1,4 @@
-<h1 align="center">Olá,I'm Thiago 👋</h1>
+<h1 align="center">Olá, I'm Thiago 👋</h1>
 
 <br/>
 <!-- GITHUB STATUS -->
