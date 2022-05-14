@@ -6,12 +6,11 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=dracula"/>
   
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  
 </div>
 
 <br>
-
+<!-- Skills -->
 <div align="center">
   <p><strong>Skills<strong></p>
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
