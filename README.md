@@ -3,7 +3,7 @@
 <br/>
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="280px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=dracula"/>
   
   
