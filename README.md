@@ -4,7 +4,6 @@
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <hr>
   <img height="180em" width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=dracula"/>
   
   
@@ -34,5 +33,7 @@
 <br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ts-dart)
+    
+<hr>
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
