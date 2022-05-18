@@ -31,7 +31,5 @@
 
 </div>
 <br>
-    
-<hr>
 
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"/>
