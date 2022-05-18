@@ -32,7 +32,7 @@
 </div>
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ts-dart)
+                                               ![](https://visitor-badge.glitch.me/badge?page_id=ts-dart)
     
 <hr>
 
