@@ -1,4 +1,4 @@
-<h1 align="left">Thiago Henrique</h1>
+<h1 align="center">Thiago Henrique</h1>
 
 <br/>
 <!-- GITHUB STATUS -->
