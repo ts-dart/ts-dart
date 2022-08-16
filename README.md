@@ -3,7 +3,8 @@
 <p>Sou desenvolvedor, atualmente estou fazendo o curso de desenvolvimento de software da trybe, sempre gostei de tudo que estivesse relacionado a tecnologia e ciências, tive meu primeiro contato com programação na adolescência com o interesse em criar games. Já trabalhei como secretário em um instituição de ensino, gestor de anúncios e editor de imagens e um e-commerce, hoje busco minha primeira oportunidade como desenvolvedor.</p>
 
 <div>
-  <a href="https://twitter.com/edusan_thiago"><img src="https://img.shields.io/badge/-@edusan_thiago-384D54?style=flat-square&labelColor=384D54f&logo=twitter&logoColor=white&link=https://twitter.com/edusan_thiago"/></a>
+  <a href="https://www.linkedin.com/in/thiago-henrique-da-silva-souza-634162127/"><img src="https://img.shields.io/badge/-Thiago%20Henrique-384D54?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Thiago-schell-Henrique/"/></a>
+  <a href="mailto:thiagoedusan5.11@outlook.com"><img src="https://img.shields.io/badge/-thiagoedusan5.11@outlook.com-384D54?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoedusan5.11@outlook.com"/></a>
 </div>
 
 <br>
