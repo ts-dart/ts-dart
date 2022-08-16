@@ -5,10 +5,12 @@ Sou desenvolvedor, atualmente estou fazendo o curso de desenvolvimento de softwa
 </p>
 
 <!-- GITHUB STATUS -->
+<!--
 <div>
   <img height="350px" width="350px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   <img height="350px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
 
 <a href="http://www.github.com/ts-dart"><img src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
 
