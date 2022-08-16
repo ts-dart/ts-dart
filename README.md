@@ -12,8 +12,11 @@ Sou desenvolvedor, atualmente estou fazendo o curso de desenvolvimento de softwa
 </div>
 -->
 
-<a href="http://www.github.com/ts-dart"><img height="300px" width="300px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
+<div>
+<a href="http://www.github.com/ts-dart"><img height="330px" width="330px" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
 
-<a href="http://www.github.com/ts-dart"><img height="300px" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=ts-dart&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ts-dart"><img height="330px" width="330px" src="https://github-readme-streak-stats.herokuapp.com/?user=ts-dart&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ts-dart" align="left"><img height="300px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"/></a>
+<a href="https://github.com/ts-dart" align="left"><img height="330px" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"/></a>
+</div>
+
