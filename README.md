@@ -1,6 +1,8 @@
 <h1>Thiago Henrique</h1>
 
-<!--<p>Sou desenvolvedor, atualmente estou fazendo o curso de desenvolvimento de software da trybe, sempre gostei de tudo que estivesse relacionado a tecnologia e ciências, tive meu primeiro contato com programação na adolescência com o interesse em criar games. Já trabalhei como secretário em um instituição de ensino, gestor de anúncios e editor de imagens em um e-commerce, hoje busco minha primeira oportunidade como desenvolvedor.</p>-->
+<div align="justify">
+<i><b>Olá</b> :v::, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG</i><br /><i>Atualmente faço o curso de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/thiago-henrique-da-silva-souza-634162127/"><img src="https://img.shields.io/badge/-Thiago%20Henrique-1C1917?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Thiago-schell-Henrique/"/></a>
