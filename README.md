@@ -1,6 +1,6 @@
 <h1>Thiago Henrique</h1>
 
-<div align="justify">
+<div>
 <i><b>Olá</b> :v::, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG</i><br /><i>Atualmente faço o curso de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
 </div>
 
