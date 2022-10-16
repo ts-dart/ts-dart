@@ -1,8 +1,8 @@
 <h1>Thiago Henrique</h1>
 
-<div>
-<i><b>Olá</b> :v::, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG</i><br /><i>Atualmente faço o curso de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>.</i>
-</div>
+<p>
+<i><b>Olá</b> :v:, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG. </i><i>Atualmente faço o curso de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></br>e busco minha primeira oportunidade como desenvolvedor.</i>
+</p>
 
 <div>
   <a href="https://www.linkedin.com/in/thiago-henrique-da-silva-souza-634162127/"><img src="https://img.shields.io/badge/-Thiago%20Henrique-1C1917?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Thiago-schell-Henrique/"/></a>
@@ -16,3 +16,32 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/>
 </div>
+
+<br/>
+
+<p><b>Linguagens e ferramentas:</b></p>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
+&nbsp; 
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
+&nbsp;
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/html.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/css.svg"/></a></code>
+&nbsp; 
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
+&nbsp; 
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mysql.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/mongodb.png"/></a></code>
+&nbsp; 
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/nodejs.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/docker.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/heroku.png"/></a></code>
+&nbsp; 
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/postman.png"/></a></code>
+&nbsp; 
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
