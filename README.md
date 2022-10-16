@@ -14,6 +14,9 @@
 ----
 
 <!-- GITHUB STATUS -->
+
+#### GitHub status:
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide_border=true&show_icons=true&theme=github_dark"/>
@@ -26,7 +29,8 @@
 
 ----
 
-<p><b>Linguagens e ferramentas:</b></p>
+#### Linguagens e ferramentas:
+
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/python.png?raw=true"/></a></code>
