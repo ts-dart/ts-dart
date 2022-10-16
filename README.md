@@ -19,7 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide_border=true&show_icons=true&theme=github_dark"/>
   <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ts-dart&theme=github_dark"/>
   <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark"/>
-  <img align="right" alt="GitHub Details" width="430px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark"/>
+  <img align="right" alt="GitHub Details" width="425px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark"/>
 </div>
 
 <br/>
