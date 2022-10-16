@@ -13,11 +13,11 @@
 
 <!-- GITHUB STATUS -->
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide_border=true&show_icons=true&theme=github_dark"/>
   <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ts-dart&theme=github_dark"/>
-  <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark"/>
-  <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark"/>
+  <img alt="GitHub Top Langs" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark"/>
+  <img align="right" alt="GitHub Details" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark"/>
 </div>
 
 <br/>
