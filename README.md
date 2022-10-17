@@ -5,7 +5,7 @@
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/thiago-henrique-da-silva-souza-634162127/"><img src="https://img.shields.io/badge/-Thiago%20Henrique-1C1917?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Thiago-schell-Henrique/"/></a>
+  <a href="https://www.linkedin.com/in/thiago-henrique-da-silva-souza-634162127/"><img src="https://img.shields.io/badge/-Meu%20Linkedin-1C1917?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Thiago-schell-Henrique/"/></a>
   <a href="mailto:thiagoedusan5.11@outlook.com"><img src="https://img.shields.io/badge/-thiagoedusan5.11@outlook.com-1C1917?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoedusan5.11@outlook.com"/></a>
 </div>
 
