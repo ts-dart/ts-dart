@@ -40,7 +40,7 @@
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/js.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.typescriptlang.org/" target="_blank"><img width="32" height="32" src="https://cdn.pixabay.com/photo/2022/10/16/00/31/00-31-27-846_960_720.png"/></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img width="32" height="32" src="https://cdn.pixabay.com/photo/2022/10/16/00/31/computer-7524052_960_720.png"/></a></code>
 &nbsp; 
 <code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/react.png"/></a></code>
 &nbsp; 
