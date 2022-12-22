@@ -26,7 +26,7 @@
 
 ----
 
-#### Linguagens e ferramentas:
+#### Algumas tecnologias que utilizo:
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
 &nbsp; 
