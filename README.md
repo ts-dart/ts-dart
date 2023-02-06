@@ -1,7 +1,8 @@
 <h1>Thiago Henrique</h1>
 
 <p>
-<i><b>Olá</b> 🖖, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG. </i><i>Atualmente faço o curso de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> e busco minha primeira oportunidade como desenvolvedor.</i>
+<i><b>Olá</b> 🖖, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG. </i><i>Atualmente, acabo de concluir o curso de
+desenvolvimento de software web na<a href="https://www.betrybe.com/" target="_blank"> Trybe</a> e busco minha primeira oportunidade como desenvolvedor.</i>
 </p>
 
 <div>
@@ -19,7 +20,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide_border=true&show_icons=true&theme=github_dark"/>
    <img align="right" alt="GitHub Details" width="556px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark"/>
-  <img alt="GitHub Top Langs" width="270px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark"/>
+  <img alt="GitHub Top Langs" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark"/>
 </div>
 
 <br/>
