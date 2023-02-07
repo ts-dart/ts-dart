@@ -24,14 +24,6 @@ desenvolvimento de software web na<a href="https://www.betrybe.com/" target="_bl
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark) |
 | :-: | :-: |
   
- <div style="display: flex;">
-      <img style="flex-basis: 33.33%; padding: 5px; width: 500px; height: 500px;" src="https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark"/>
-      <img style="flex-basis: 33.33%; padding: 5px; width: 500px; height: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide_border=true&show_icons=true&theme=github_dark"/>
-  </div>
-  <div style="display: flex;">
-    <img align="right" alt="GitHub Details" style="flex-basis: 33.33%; padding: 5px; width: 500px; height: 500px;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark"/>
-    <img alt="GitHub Top Langs" style="flex-basis: 33.33%; padding: 5px; width: 500px; height: 500px;"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark"/>
-  </div>
 </div>
 
 <br/>
