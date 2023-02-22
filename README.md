@@ -30,7 +30,7 @@ desenvolvimento de software web na<a href="https://www.betrybe.com/" target="_bl
 
 ----
 
-#### Algumas tecnologias que utilizo:
+#### Skills e ferramentas:
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
 &nbsp; 
