@@ -1,10 +1,5 @@
 <h1>Thiago Henrique</h1>
 
-<p>
-<i><b>Olá</b> 🖖, eu sou o <b>Thiago</b>, tenho 23 anos, sou do vale do aço em MG. </i><i>Atualmente, acabo de concluir o curso de
-desenvolvimento de software web na<a href="https://www.betrybe.com/" target="_blank"> Trybe</a> e busco minha primeira oportunidade como desenvolvedor.</i>
-</p>
-
 <div>
   <a href="https://www.linkedin.com/in/thiago-henrique-da-silva-souza-634162127/"><img src="https://img.shields.io/badge/-Meu%20Linkedin-1C1917?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Thiago-schell-Henrique/"/></a>
   <a href="mailto:thiagoedusan5.11@outlook.com"><img src="https://img.shields.io/badge/-thiagoedusan5.11@outlook.com-1C1917?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoedusan5.11@outlook.com"/></a>
@@ -31,6 +26,8 @@ desenvolvimento de software web na<a href="https://www.betrybe.com/" target="_bl
 ----
 
 #### Skills e ferramentas:
+
+<!--
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/bash.png?raw=true"/></a></code>
 &nbsp; 
@@ -61,3 +58,4 @@ desenvolvimento de software web na<a href="https://www.betrybe.com/" target="_bl
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/vs.png"/></a></code>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+-->
