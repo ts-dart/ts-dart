@@ -5,7 +5,6 @@
   <a href="mailto:thiagoedusan5.11@outlook.com"><img src="https://img.shields.io/badge/-thiagoedusan5.11@outlook.com-1C1917?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoedusan5.11@outlook.com"/></a>
 </div>
 
-----
 
 <!-- GITHUB STATUS -->
 
@@ -23,7 +22,7 @@
 
 <br/>
 
-----
+
 
 <!--
 
