@@ -15,7 +15,7 @@
   | ![](https://github-readme-stats.vercel.app/api?username=ts-dart&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ts-dart&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ts-dart&theme=github_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide=html,css&hide_border=true&show_icons=true&theme=github_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ts-dart&theme=github_dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dart&layout=compact&langs_count=7&hide=html,css,dockerfile&hide_border=true&show_icons=true&theme=github_dark) |
 | :-: | :-: |
   
 </div>
